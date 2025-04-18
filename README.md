@@ -25,17 +25,16 @@ Year: 2021
 Source: VAERS Official Site
 
 ⚙️ Techniques Used
+
 Data Preprocessing and Cleaning
 
 Feature Selection and Encoding
 
 Handling Imbalanced Data:
 
-Undersampling
+OverSampling
 
 SMOTE
-
-
 
 Model Building:
 
